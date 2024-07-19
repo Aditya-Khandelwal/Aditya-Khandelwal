@@ -14,7 +14,7 @@ Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 
 ### Working on: 🚀
 
-- Learning [GO](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/) 
+- Learning [PYTHON](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/) 
 - [AI/ML/DL](https://github.com/Aditya-Khandelwal) 
 
 
