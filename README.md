@@ -10,6 +10,7 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://Aditya-Khandelwal.github.io/)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Adityaaaaa9601.svg?style=social&label=Follow%20%40Adityaaaaa9601)](https://twitter.com/Adityaaaaa9601)
+
 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/)
 
 
