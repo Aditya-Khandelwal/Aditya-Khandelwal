@@ -11,6 +11,9 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 
 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/)
 
+Chechout my LeetCode profile: [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-profile)
+
+
 
 ### Working on: 🚀
 
