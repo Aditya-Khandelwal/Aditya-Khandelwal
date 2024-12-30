@@ -15,16 +15,16 @@ Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 
 ### Working on: 🚀
 
-- Learning [PYTHON](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/) 
-- [AI/ML/DL](https://github.com/Aditya-Khandelwal) 
+- Learning [Full Stack Development](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/) 
+- [Python](https://github.com/Aditya-Khandelwal) 
 
 
 ### Languages and Tools
 
 #### Languages:
-| Python | HTML | Java |
+| HTML | CSS | Python |
 |---------|----|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css/css" title="CSS" alt="CSS" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/> |
 
 
 ### Best frameworks and main libraries for Python3:
