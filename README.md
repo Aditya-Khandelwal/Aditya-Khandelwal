@@ -22,8 +22,8 @@ Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 ### Languages and Tools
 
 #### Languages:
-| HTML | CSS | Python |
-|---------|----|------|
+| HTML | CSS | JS | Python |
+|---------|----|---|------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="HTML" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/> |
 
 
