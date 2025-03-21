@@ -15,7 +15,7 @@ Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 
 ### Working on: 🚀
 
-- Learning [Full Stack Development](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/) 
+- Learning [Full Stack MERN Development](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/) 
 - [Python](https://github.com/Aditya-Khandelwal) 
 
 
