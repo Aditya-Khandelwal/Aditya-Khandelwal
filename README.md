@@ -7,7 +7,6 @@ As a MERN Stack enthusiast and recent graduate, I am eager to apply my programmi
 
    
 ### Social media: 📡  
-Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://aditya-khandelwal.github.io/Portfolio/)
 
 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-khandelwal-3256b4212/)
 
